@@ -194,6 +194,14 @@ Run
 - Can variables be used in arithmetic expressions?
 - Why store an intermediate result in another variable?
 
+## 📚 Detailed Article
+
+For a detailed beginner-friendly explanation of the concepts and
+questions covered in this lesson:
+
+👉 [Read the detailed DEV.to article]
+( https://dev.to/poushmita_paul_fddcbe1a2f/java-variables-data-and-int-8-questions-i-had-as-a-beginner-3p4j )
+
 ## One-minute summary
 
 Variables provide named storage for data during program execution. Java is strongly typed, so a variable declaration includes its type. This lesson introduces `String` for text and `int` for integer values, explains assignment with `=`, demonstrates `print()` and `println()`, and shows how variables can be combined in arithmetic and used to store intermediate results.

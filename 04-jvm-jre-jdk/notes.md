@@ -149,6 +149,14 @@ A developer needs the JDK to create and compile Java applications. A machine tha
 - What do JDK, JRE and JVM stand for?
 - What does WORA mean?
 
+## 📚 Detailed Article
+
+For a detailed beginner-friendly explanation of the concepts and
+questions covered in this lesson:
+
+👉 [Read the detailed DEV.to article]
+( https://dev.to/poushmita_paul_fddcbe1a2f/jvm-jre-jdk-bytecode-main-8-questions-i-had-as-a-beginner-4hl2 )
+
 ## One-minute summary
 
 Java source code is compiled by `javac` into bytecode stored in `.class` files. The JVM executes that bytecode, allowing the same compiled application to run on different supported platforms. A standard Java application has a `main()` entry point inside a class. The lesson also introduces the JDK → JRE → JVM relationship.

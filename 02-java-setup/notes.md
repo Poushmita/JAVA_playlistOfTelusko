@@ -109,6 +109,14 @@ If both commands return a version, Java and the compiler are available in the te
 - Why might `javac` fail even after Java installation?
 - Which two commands verify Java and the compiler?
 
+## 📚 Detailed Article
+
+For a detailed beginner-friendly explanation of the concepts and
+questions covered in this lesson:
+
+👉 [Read the detailed DEV.to article]
+( https://dev.to/poushmita_paul_fddcbe1a2f/setting-up-java-6-questions-i-had-about-jdk-vs-code-lts-and-path-n96 )
+
 ## One-minute summary
 
 Before writing Java programs, you need a development environment. The lesson uses VS Code plus a JDK. The JDK provides the Java development tools, while VS Code provides the editing environment. On Windows, the JDK's `bin` directory may need to be added to PATH so terminal commands such as `java` and `javac` work from any location.
