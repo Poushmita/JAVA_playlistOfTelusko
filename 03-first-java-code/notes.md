@@ -133,6 +133,14 @@ The lesson ends by showing that a Java source file needs additional structure be
 - Why are double quotes needed around text?
 - What is the basic Java write → compile → run workflow?
 
+## 📚 Detailed Article
+
+For a detailed beginner-friendly explanation of the concepts and
+questions covered in this lesson:
+
+👉 [Read the detailed DEV.to article]
+( https://dev.to/poushmita_paul_fddcbe1a2f/writing-your-first-java-code-5-questions-i-had-as-a-beginner-18nf )
+
 ## One-minute summary
 
 This lesson moves from installation into actual Java programming. You learn how to create a Java source file, use VS Code's terminal, experiment with JShell, print output, and understand the initial compile → run workflow. The next step is learning the structure required inside a Java application.

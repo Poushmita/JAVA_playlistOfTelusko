@@ -46,7 +46,7 @@ The course will later cover topics including:
 
 ## Brief history
 
-- Java was created at **Sun Microsystems**.
+- Java was created at **[Sun Microsystems](https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-what-is-java-who-created-it-and-how-sun-microsystems-became-oracle-4abp#what-was-sun-microsystems)**.
 - The original team was led by **James Gosling**.
 - Java was introduced in **1995**.
 - Oracle later acquired Sun Microsystems and became the owner of the Java trademark.
@@ -73,6 +73,14 @@ The lesson explains that modern Java follows a roughly **six-month release caden
 - Who led the original Java development team?
 - When was Java introduced?
 - What is the general modern Java release cadence?
+
+## 📚 Detailed Article
+
+For a detailed beginner-friendly explanation of the concepts and
+questions covered in this lesson:
+
+👉 [Read the detailed DEV.to article]
+( https://dev.to/poushmita_paul_fddcbe1a2f/java-introduction-8-questions-i-had-as-a-beginner-and-their-easy-answers-52am )
 
 ## One-minute summary
 
